@@ -10,4 +10,4 @@ After calculation, with the use of python's pynput library we can move cursor. c
 ![ESP32-MPU6050](https://github.com/Divakar-26/AirMouse6050/blob/main/MPU6050%20Interfacing%20with%20ESP32.jpg)
 
 ## Result
-![Working](https://github.com/Divakar-26/AirMouse6050/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(1).gif)
+![Working](https://github.com/Divakar-26/AirMouse6050/blob/main/Untitled%20video%20-%20Made%20with%20Clipchamp%20(2).gif)
